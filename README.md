@@ -1,3 +1,3 @@
 # bc_module_5
 Homework for Module 2 - Data Visualization
-Combined and analyzed data on the performance of medication on tumors in mice. Created different plots/charts to visualize trends.
+In this analysis, we investigated the effectiveness of various drug regimens in reducing tumor volumes in a study. Focused on four promising drug regimens out of the many that were examined: Capomulin, Ramicane, Infubinol, and Ceftamin. Provided data visuals to display trends.
